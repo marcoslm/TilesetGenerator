@@ -33,8 +33,18 @@ Este programa fue creado con el único propósito de realizar pruebas rápidas y
 
 ## Instalación y Uso
 
-Simplemente descarga el archivo ![TilesetGenerator.exe](https://github.com/marcoslm/TilesetGenerator/raw/master/TilesetGenerator.exe)
+Simplemente descarga el archivo ![TilesetGenerator.exe](https://github.com/marcoslm/TilesetGenerator/raw/master/TilesetGenerator.exe) y ejecútalo (Windows 7 o superior).
 
+## Licencia
+
+Este proyecto está licenciado bajo la **GNU General Public License v3.0 (GPL-3.0)**, lo que significa que eres libre de:
+
+- Usar, copiar, modificar y distribuir este código con total libertad.
+- Sin embargo, se requiere que cualquier modificación o distribución del código se realice bajo los mismos términos de esta licencia.
+
+Por favor, menciona la autoría original del código cuando lo reutilices o modifiques.
+
+Puedes consultar la licencia completa en [LICENSE](https://www.gnu.org/licenses/gpl-3.0.html).
 
 ---
 
