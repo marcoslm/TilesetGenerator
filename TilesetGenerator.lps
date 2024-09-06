@@ -2,7 +2,7 @@
 <CONFIG>
   <ProjectSession>
     <PathDelim Value="\"/>
-    <Version Value="11"/>
+    <Version Value="12"/>
     <BuildModes Active="Release"/>
     <Units Count="9">
       <Unit0>
@@ -18,8 +18,9 @@
         <HasResources Value="True"/>
         <ResourceBaseClass Value="Form"/>
         <UnitName Value="u_Main"/>
-        <TopLine Value="237"/>
-        <CursorPos X="93" Y="521"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="858"/>
+        <CursorPos Y="861"/>
         <UsageCount Value="239"/>
         <Loaded Value="True"/>
         <LoadedDesigner Value="True"/>
@@ -44,9 +45,8 @@
         <HasResources Value="True"/>
         <ResourceBaseClass Value="Form"/>
         <UnitName Value="u_Settings"/>
-        <IsVisibleTab Value="True"/>
         <EditorIndex Value="1"/>
-        <TopLine Value="37"/>
+        <TopLine Value="71"/>
         <CursorPos X="3" Y="58"/>
         <UsageCount Value="118"/>
         <Loaded Value="True"/>
@@ -213,14 +213,14 @@
     </JumpHistory>
     <RunParams>
       <FormatVersion Value="2"/>
-      <Modes Count="0" ActiveMode=""/>
+      <Modes ActiveMode=""/>
     </RunParams>
   </ProjectSession>
   <Debugging>
-    <Watches Count="1">
-      <Item1>
+    <Watches>
+      <Item>
         <Expression Value="TOTALTILES"/>
-      </Item1>
+      </Item>
     </Watches>
   </Debugging>
 </CONFIG>
