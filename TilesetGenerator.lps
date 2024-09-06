@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="11"/>
+    <BuildModes Active="Release"/>
+    <Units Count="9">
+      <Unit0>
+        <Filename Value="TilesetGenerator.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="239"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="u_main.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmMain"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="u_Main"/>
+        <TopLine Value="237"/>
+        <CursorPos X="93" Y="521"/>
+        <UsageCount Value="239"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="u_about.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmAcerca"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="u_About"/>
+        <EditorIndex Value="2"/>
+        <CursorPos X="43" Y="21"/>
+        <UsageCount Value="122"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="u_settings.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmConfig"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="u_Settings"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="37"/>
+        <CursorPos X="3" Y="58"/>
+        <UsageCount Value="118"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="C:\lazarus\lcl\include\treeview.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1430"/>
+        <CursorPos Y="1452"/>
+        <UsageCount Value="10"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="C:\lazarus\lcl\include\customimage.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="7"/>
+        <CursorPos Y="46"/>
+        <UsageCount Value="3"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="C:\lazarus\lcl\include\control.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="5047"/>
+        <CursorPos Y="5072"/>
+        <UsageCount Value="2"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="C:\lazarus\lcl\include\wincontrol.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="4416"/>
+        <CursorPos Y="4440"/>
+        <UsageCount Value="2"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="C:\lazarus\lcl\forms.pp"/>
+        <UnitName Value="Forms"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="97"/>
+        <CursorPos X="14" Y="1500"/>
+        <UsageCount Value="2"/>
+      </Unit8>
+    </Units>
+    <JumpHistory Count="30" HistoryIndex="29">
+      <Position1>
+        <Filename Value="u_main.pas"/>
+        <Caret Line="615" Column="10" TopLine="598"/>
+      </Position1>
+      <Position2>
+        <Filename Value="u_main.pas"/>
+        <Caret Line="109" Column="44" TopLine="86"/>
+      </Position2>
+      <Position3>
+        <Filename Value="u_main.pas"/>
+        <Caret Line="440" Column="49" TopLine="418"/>
+      </Position3>
+      <Position4>
+        <Filename Value="u_main.pas"/>
+        <Caret Line="888" Column="34" TopLine="855"/>
+      </Position4>
+      <Position5>
+        <Filename Value="u_main.pas"/>
+        <Caret Line="534" Column="44" TopLine="499"/>
+      </Position5>
+      <Position6>
+        <Filename Value="u_main.pas"/>
+        <Caret Line="678" Column="13" TopLine="666"/>
+      </Position6>
+      <Position7>
+        <Filename Value="u_main.pas"/>
+        <Caret Line="510" Column="23" TopLine="508"/>
+      </Position7>
+      <Position8>
+        <Filename Value="u_main.pas"/>
+        <Caret Line="98" Column="91" TopLine="78"/>
+      </Position8>
+      <Position9>
+        <Filename Value="u_main.pas"/>
+        <Caret Line="869" Column="3" TopLine="834"/>
+      </Position9>
+      <Position10>
+        <Filename Value="u_main.pas"/>
+        <Caret Line="469" Column="6" TopLine="458"/>
+      </Position10>
+      <Position11>
+        <Filename Value="u_main.pas"/>
+        <Caret Line="470" Column="20" TopLine="458"/>
+      </Position11>
+      <Position12>
+        <Filename Value="u_main.pas"/>
+        <Caret Line="49" TopLine="28"/>
+      </Position12>
+      <Position13>
+        <Filename Value="u_main.pas"/>
+        <Caret Line="749" Column="25" TopLine="726"/>
+      </Position13>
+      <Position14>
+        <Filename Value="u_main.pas"/>
+        <Caret Line="861" Column="51" TopLine="847"/>
+      </Position14>
+      <Position15>
+        <Filename Value="u_main.pas"/>
+        <Caret Line="684" TopLine="663"/>
+      </Position15>
+      <Position16>
+        <Filename Value="u_main.pas"/>
+        <Caret Line="104" Column="30" TopLine="89"/>
+      </Position16>
+      <Position17>
+        <Filename Value="u_main.pas"/>
+        <Caret Line="102" Column="24" TopLine="83"/>
+      </Position17>
+      <Position18>
+        <Filename Value="u_main.pas"/>
+        <Caret Line="284" Column="25" TopLine="267"/>
+      </Position18>
+      <Position19>
+        <Filename Value="u_main.pas"/>
+        <Caret Line="102" Column="15" TopLine="81"/>
+      </Position19>
+      <Position20>
+        <Filename Value="u_main.pas"/>
+        <Caret Line="350" Column="26" TopLine="326"/>
+      </Position20>
+      <Position21>
+        <Filename Value="u_main.pas"/>
+        <Caret Line="690" Column="3" TopLine="685"/>
+      </Position21>
+      <Position22>
+        <Filename Value="u_main.pas"/>
+        <Caret Line="580" Column="23" TopLine="580"/>
+      </Position22>
+      <Position23>
+        <Filename Value="u_about.pas"/>
+        <Caret Line="54" Column="34" TopLine="8"/>
+      </Position23>
+      <Position24>
+        <Filename Value="u_settings.pas"/>
+        <Caret Line="25"/>
+      </Position24>
+      <Position25>
+        <Filename Value="u_main.pas"/>
+        <Caret Line="884" Column="55" TopLine="853"/>
+      </Position25>
+      <Position26>
+        <Filename Value="u_main.pas"/>
+        <Caret Line="796" Column="10" TopLine="778"/>
+      </Position26>
+      <Position27>
+        <Filename Value="u_main.pas"/>
+        <Caret Line="103" Column="23" TopLine="82"/>
+      </Position27>
+      <Position28>
+        <Filename Value="u_main.pas"/>
+        <Caret Line="312" Column="30" TopLine="293"/>
+      </Position28>
+      <Position29>
+        <Filename Value="u_main.pas"/>
+        <Caret Line="689" Column="13" TopLine="675"/>
+      </Position29>
+      <Position30>
+        <Filename Value="u_main.pas"/>
+        <Caret Line="59" Column="18" TopLine="37"/>
+      </Position30>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+  <Debugging>
+    <Watches Count="1">
+      <Item1>
+        <Expression Value="TOTALTILES"/>
+      </Item1>
+    </Watches>
+  </Debugging>
+</CONFIG>
