@@ -30,6 +30,7 @@ Este programa fue creado con el único propósito de realizar pruebas rápidas y
 - Añadir más opciones para la gestión de archivos (usando `LazFileUtils`).
 - Implementar zoom para facilitar la visualización de los tiles.
 - Añadir soporte para múltiples idiomas.
+- Y bueno... lo que se nos ocurra!
 
 ## Instalación y Uso
 
