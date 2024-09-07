@@ -33,7 +33,7 @@ Este programa fue creado con el único propósito de realizar pruebas rápidas y
 
 ## Instalación y Uso
 
-Simplemente descarga el archivo ![TilesetGenerator.exe](https://github.com/marcoslm/TilesetGenerator/raw/master/TilesetGenerator.exe) y ejecútalo (Windows 7 o superior).
+Simplemente descarga el archivo [TilesetGenerator.exe](https://github.com/marcoslm/TilesetGenerator/raw/master/TilesetGenerator.exe) y ejecútalo (Windows 7 o superior).
 
 ## Licencia
 
